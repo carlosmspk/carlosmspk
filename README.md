@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Carlos!
+- 👀 I’m interested in programming overall and at different levels. I like learning new programming languages with your typical "homework" style assignments. I struggle a bit in how I can learn a language AND do something practical with it, so I tend to try and learn it before actually using it for anything useful. I'm not very fond of networking related things (distributed architectures, implementing protocols...) and extremely low level stuff (drivers, hardware interfacing...), but that might be because I never actually did something successfully with it.
+- 🌱 I’m currently learning Machine Learning with Python and a little bit of Game Development with Unity on the side, every now and then.
+- 💞️ I’m looking to collaborate on open source projects. It's a new world to me that I haven't gotten the chance to participate in and it's not very begginer friendly (imo), I never know how I can contribute.
+- 📫 Reach me by email me at carlos_cp_santos@hotmail.com if you have proposals, questions, or requests for me!
