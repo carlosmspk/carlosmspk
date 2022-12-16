@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Carlos!
-- 👀 I’m interested in programming overall and at different levels. I like learning new programming languages with your typical "homework" style assignments. I struggle a bit in how I can learn a language AND do something practical with it, so I tend to try and learn it before actually using it for anything useful. I'm not very fond of extremely low level stuff (drivers, hardware interfacing...), but that might be because I never gave it a serious try.
-- 🌱 I’m currently learning Machine Learning with Python and a little bit of Game Development with Unity on the side, every now and then.
+- 👀 I’m interested in programming overall and at different levels. I like learning new programming languages with your typical "homework" style assignments. I struggle a bit in how I can learn a language AND do something practical with it, so I tend to try and learn it before actually using it for anything useful. I'm not very fond of web development, but that might be because I never gave it a serious try (only "web" dev I did was with Electron, for an offline app).
+- 🌱 I’m currently learning Android Development (apps), after having experience with AOSP and realizing I didn't even know how to do apps!
 - 💞️ I’m looking to collaborate on open source projects. It's a new world to me that I haven't gotten the chance to participate in and it's not very begginer friendly (imo), I never know how I can contribute.
-- 📫 Reach me by email me at carlos_cp_santos@hotmail.com if you have proposals, questions, or requests for me!
+- 📫 Reach me by email me at carlos_cp_santos@hotmail.com if you have proposals, questions, or requests for me! I might take a while to answer, but will eventually get around to it.
